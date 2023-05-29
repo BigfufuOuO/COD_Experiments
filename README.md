@@ -9,7 +9,7 @@ The whole experiments were divied into 6 independent tasks. Briefly, these tasks
 - Lab4: Single-cycle CPU
 - Lab5: Pipeline CPU
 
-**Note:** Experiment report was lost in another computer (not mine), though it submitted successfully. Thus a briefly introduction to these two lab is needed, which could be found in the filefold. 
+**Note:** Experiment report was lost in another computer (not mine), though it was submitted successfully. Thus a briefly introduction to these two lab is needed, which could be found in the filefold. 
 ## Proceedings
 ### Vivado 2019.1
   
